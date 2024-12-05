@@ -1,6 +1,3 @@
-# You can Check it on
-http://192.168.56.1:49520/
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
